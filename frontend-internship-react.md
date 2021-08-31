@@ -1,6 +1,6 @@
 # Frontend Engineer (Internship)
 
-[![](https://img.shields.io/badge/status-open-brightgreen)]()
+![](https://img.shields.io/badge/status-open-brightgreen)
 
 AddressZero is a open Decentralized Autonomous Organization(DAO) which aims to create a valuable metaverse. We are highly technical, distributed group of teams working together towards actualizing our goals.
 
